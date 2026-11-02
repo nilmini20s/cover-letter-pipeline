@@ -9,6 +9,8 @@ date: "November 2, 2026"
 # === YOUR INFO (set once, reuse every time) ===
 name: "Nilmini Abeyratne"
 email: "nilmini20s@gmail.com"
+phone: "555-555-5555"
+location: "USA"
 linkedin-url: "https://www.linkedin.com/in/nilmini-abeyratne-a2887b91/"
 linkedin-display: "linkedin.com/in/nilminiabeyratne"
 portfolio-url: "https://nilmini20s.github.io/"
